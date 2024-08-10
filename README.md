@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/0marzez0/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/omarzezo1/omarzezo1/blob/master/profile-img.png" align="right" width="25%"/>
 
 I have Experience in Front-end Development and have Deep Knowledge of Latest Technology to Produce Clean Code and Responsive Websites.
 
