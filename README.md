@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">Hi, I'm Omar 👋</h1>
+<p align="center">
+    <a href="https://x.com/ZezoOmar"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/omar-abd-elaziz-9110b11a7/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/0marzez0/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-Currently, two official plugins are available:
+I have Experience in Front-end Development and have Deep Knowledge of Latest Technology to Produce Clean Code and Responsive Websites.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+- 🔍 I have 2 live apps: 
+  - [Shortcut Men's Wear Store](https://shortcutmenstore.com/)
+  - [Adam Superfoods For Adam's Company](https://adamsuperfoods.com/)
+  
