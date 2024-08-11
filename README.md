@@ -8,7 +8,7 @@
   
   <img src="https://github.com/omarzezo1/omarzezo1/blob/master/profile-img.png" align="right" width="25%"/>
 
-I have Experience in Front-end Development and have Deep Knowledge of Latest Technology to Produce Clean Code and Responsive Websites.
+Passionate Frontend Developer with 3 years of hands-on experience in building and optimizing dynamic web applications. Proficient in modern front-end libraries and frameworks such as React.js and Next.js.
 
 
 - 🔍 I have 2 live apps: 
